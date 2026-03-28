@@ -75,3 +75,8 @@ body {
 .game-info button:hover {
   background: #339af0;
 }
+
+.winning {
+  background: #69db7c !important; /* soft green */
+  color: white;
+}
